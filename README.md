@@ -1,24 +1,13 @@
-# airbnb-clone
+# Airbnb clone written in Vue.js
 
-## Project setup
-```
-npm install
-```
+## Preview
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![Alt Text](https://github.com/johnnyperdomo/airbnb-clone-vue/blob/main/src/assets/airbnb-preview.gif)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+**Built with**
+- Vue.js 2
 
-### Lints and fixes files
+## Installation
 ```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+  npm run serve
+  ```
